@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+*.sqlite3
+*.log
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Audio
+*.wav
+*.mp3
+
+# Whisper
+whisper_cache/
+
+# PyTorch / transformers
+*.pt
+*.bin

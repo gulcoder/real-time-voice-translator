@@ -1,0 +1,13 @@
+openai
+python-dotenv
+sounddevice
+numpy
+faster-whisper
+pydub
+scipy
+pyttsx3
+transformers
+torchaudio
+librosa
+soundfile
+torch
